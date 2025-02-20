@@ -1,3 +1,80 @@
+/* Remove margin from the body */
+body {
+  margin: 0;
+}
+
+/* Change the visible bullets from your navigation to be something other than a circle */
+nav ul {
+  list-style-type: square; /* You can change 'square' to any other shape you like */
+}
+
+/* Change the color of the bullets */
+nav ul li {
+  color: blue; /* You can change 'blue' to any color you prefer */
+}
+
+/* Change the nav link colors for active, hover, and visited states */
+nav a {
+  color: black; /* Default link color */
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: red; /* Hover color */
+}
+
+nav a:visited {
+  color: purple; /* Visited link color */
+}
+
+nav a:active {
+  color: green; /* Active link color */
+}
+
+/* Set the header to have a different background color than the main */
+header {
+  background-color: lightblue; /* You can change this to any color */
+  padding: 1rem; /* Padding inside header */
+}
+
+/* Set the main element with specific width, padding, and border */
+main {
+  width: calc(70% - 1px);
+  float: left; /* Align the main element to the left */
+  padding: 1rem; /* 1rem of padding */
+  border-right: 1px solid black; /* 1px border on only the right side */
+}
+
+/* Set the aside elements with specific width, padding, and alignment */
+aside {
+  width: 30%;
+  float: right; /* Align the aside element to the right */
+}
+
+/* Set the footer with the same background color as the header, centered text */
+footer {
+  background-color: lightblue; /* Same background color as header */
+  text-align: center; /* Center the text */
+  clear: both; /* Clear the float to fix alignment */
+  padding: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 Description:  theme for Classes
 Author:       J Neathawk
