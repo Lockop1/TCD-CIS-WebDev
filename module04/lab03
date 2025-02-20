@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <html lang="en-US">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="height=auto" />
+  <title>Attractively ugly page</title>
+</head>
+
+<body>
+  <header>
+    <h1>What an Ugly Page</h1>
+    <p>There's plenty of room for growth</p>
+    
+    <nav>
+      <ul>
+        <li><a href="https://optical.toys/" target="_blank">Item1</a>
+          <ul>
+            <li><a href="https://www.rottentomatoes.com/m/surprise_me" target="_blank">Item 2</a></li>
+            <li><a href="https://maze.toys/mazes/mini/daily/" target="_blank">Item 3</a></li>
+          </ul>
+        </li>
+
+        <li><a href="https://puginarug.com/" target="_blank">Item 4</a>
+          <ul>
+            <li><a href="https://memory.toys/classic/easy/" target="_blank">Item 5</a></li>
+            <li><a href="https://clicking.toys/flip-grid/neat-nine/3-holes/" target="_blank">Item 6</a></li>
+          </ul>
+        </li>
+        
+        <li><a href="https://alwaysjudgeabookbyitscover.com/" target="_blank">Item 7</a></li>
+        <li><a href="https://longdogechallenge.com/" target="_blank">Item 8</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  
+  <main>
+    <section class="primary">
+      <h3>Article 1</h3>
+      <p>Fortnite dances, also known as <em>emotes</em>, have become a cultural phenomenon since the game’s rise to popularity. These <strong>quirky, energetic</strong> moves are performed by characters within the game, often inspired by <em>real-world dance trends</em>, viral videos, or <strong>pop</strong> culture references. Players can unlock or purchase these dances, using them to express themselves during gameplay or after a victory. <em>Some of the most famous Fortnite dances, like the "Floss" or "Orange Justice," have transcended the game itself</em>, appearing in social media trends, schoolyards, and even in professional sports events. The catchy moves and fun animations have made these emotes an <strong>iconic part of Fortnite’s overall appeal</strong>, adding an extra layer of enjoyment to the game.
+</p>
+    </section>
+
+    <section>
+      <h3>Article 2</h3>
+      <p style="padding-left: 3em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur eros sem, eu elementum eros luctus sit amet. Quisque scelerisque finibus tortor. Mauris mollis turpis.</p>
+      
+      <h3>Article 3</h3>
+      <p style="padding-left: 3em;">Yipper tapper yapper. Donkey aghnt antuy. Poouido klomn tooter drupt.</p>
+    </section>
+  </main>
+
+  <aside>
+    <section>
+      <img src="images/gloves.jpg" alt="Ovey gloves">
+    </section>
+
+    <section>
+      <img src="images/yeezys.jifif" alt="Fake yeezy slides">
+    </section>
+  </aside>
+
+  <footer>
+    <p>&copy; 2025 Anthony Newsome</p>
+  </footer>
+</body>
+
+  
+</html>
