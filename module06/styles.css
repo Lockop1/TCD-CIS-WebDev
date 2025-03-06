@@ -3,9 +3,10 @@ body{
   font-family: sans-serif;
 }
 
-picture{
+picture img{
   text-align:  center;
   padding: 10px;
+  max-width: 100%;
 }
 
 figcaption{
