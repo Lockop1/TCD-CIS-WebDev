@@ -1,16 +1,20 @@
+body{
+  background-color: ffabcb;
+}
+
 picture{
   text-align:  center;
   padding: 10px;
-  background-color: ffabcb;
 }
 
 figcaption{
   text-align: center;
   margin-left: 10px
 }
+
 h1{
   text-align: center;
   padding: 3px;
-  color: lightblue;
+  color: 046266;
   background-color: lightgrey;
 }
