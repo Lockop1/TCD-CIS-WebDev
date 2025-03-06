@@ -1,5 +1,6 @@
 body{
   background-color: #ffabcb;
+  font-family: sans-serif;
 }
 
 picture{
@@ -9,7 +10,11 @@ picture{
 
 figcaption{
   text-align: center;
-  margin-left: 10px
+  margin-left: 175px;
+  margin-right: 175px;
+  background-color: lightgrey;
+  font-size: 32px;
+  text-decoration: underline;
 }
 
 h1{
