@@ -1,1 +1,11 @@
+picture{
+  align:  center;
+  padding: 10px;
+}
 
+h1{
+  align: center;
+  padding: 3px;
+  color: light-blue;
+  background-color: light-grey;
+}
